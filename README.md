@@ -1,0 +1,1 @@
+# Utilizando-Func-o-dentro-de-uma-Array
